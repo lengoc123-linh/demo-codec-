@@ -147,7 +147,7 @@ public:
     void nhap() {
     for (int i = 0; i < 6; ++i) {
         string ngay;
-        cout << "Nhap thoi gian cho thu " << i + 2 << " (co the de trong neu khong co su kien):\n";
+        cout << "Nhap thoi gian cho thu " << i + 2 << " \n";
         int sosukien;
         while (true) {
             cout << "Nhap so su kien trong ngay: ";
